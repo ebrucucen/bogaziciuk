@@ -2853,7 +2853,7 @@
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 3em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2879,7 +2879,7 @@
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
+					width: 9em;
 					height: 2em;
 				}
 
@@ -2887,7 +2887,7 @@
 			position: fixed;
 			right: 2em;
 			top: 2em;
-			z-index: 10000;
+			z-index: 1000;
 		}
 
 			#header nav ul {
